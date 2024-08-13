@@ -8,6 +8,10 @@
 
 **Duration:** JUNE TO AUGUST 2025
 
+
+###Project: Floating Point Unit which can perform arithmetic operations on floating point numbers according to IEEE 754 standard 
+
+
 ### Overview
 
 This project implements a floating-point arithmetic unit (FPU) in VHDL, based on the IEEE 754 single-precision standard. The FPU supports basic arithmetic operations: addition, subtraction, multiplication, and division. It is designed to handle 32-bit floating-point numbers, adhering to the IEEE 754 format, which consists of a sign bit, an 8-bit exponent, and a 23-bit fraction (mantissa). The project also includes a testbench to verify the correctness of the FPU operations.
