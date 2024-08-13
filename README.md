@@ -9,7 +9,7 @@
 **Duration:** JUNE TO AUGUST 2025
 
 
-###Project: Floating Point Unit which can perform arithmetic operations on floating point numbers according to IEEE 754 standard 
+### Project: Floating Point Unit which can perform arithmetic operations on floating point numbers according to IEEE 754 standard 
 
 
 ### Overview
